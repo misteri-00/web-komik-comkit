@@ -1,1 +1,1 @@
-# web-komik-comkit
+# Comkit - tempat membaca komik
